@@ -1,5 +1,15 @@
 h1 {
     color: peru;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p,
+li {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+li {
+    color: gray;
 }
 
 .pic {
